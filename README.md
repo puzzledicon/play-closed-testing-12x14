@@ -1,6 +1,6 @@
 # 封闭测试 12×14 指南
 
-帮助新个人账号理解正式发布前的封闭测试要求，并按步骤准备测试与权限申请。
+帮助新个人账号理解正式发布前的封闭测试要求：如何开测、邀请有效测试员、达标后申请生产权限，并排查常见卡点。
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-online-2ea44f?logo=github)](https://puzzledicon.github.io/play-closed-testing-12x14/)
 
