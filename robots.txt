@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://puzzledicon.github.io/play-closed-testing-12x14/sitemap.xml
